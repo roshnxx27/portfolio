@@ -54,7 +54,8 @@ This project is licensed under the MIT License.
 - Email: 27roshan06patel05@gmail.com
 - LinkedIn: [https://linkedin.com/in/roshnxx27](https://linkedin.com/in/roshnxx27)
 - GitHub: [https://github.com/roshnxx27](https://github.com/roshnxx27)
-![Portfolio Preview](images/Screenshot 2025-04-25 004620.png)
+
+![Portfolio Preview]([images/Screenshot 2025-04-25 004620.png](https://github.com/roshnxx27/roshnxx27.github.io/blob/main/images/Screenshot%202025-04-25%20004620.png))
 ![Portfolio Preview](images/Screenshot 2025-04-25 004558.png)
 ![Portfolio Preview](images/Screenshot 2025-04-25 004540.png)
 ![Portfolio Preview](images/Screenshot 2025-04-25 004518.png)
