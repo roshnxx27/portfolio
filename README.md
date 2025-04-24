@@ -2,6 +2,7 @@
 
 ![Portfolio Preview](images/proj_1.jpg)
 
+![Portfolio Preview](images/1.png)
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a Computer Science Engineering student and aspiring Full Stack Developer.
 
 ## Features
