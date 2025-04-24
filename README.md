@@ -1,6 +1,6 @@
 # Roshan Patel - Portfolio Website
 
-![Portfolio Preview](images/proj_1.png)
+![Portfolio Preview](images/proj_1.jpg)
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a Computer Science Engineering student and aspiring Full Stack Developer.
 
