@@ -53,7 +53,11 @@ This project is licensed under the MIT License.
 - Email: 27roshan06patel05@gmail.com
 - LinkedIn: [https://linkedin.com/in/roshnxx27](https://linkedin.com/in/roshnxx27)
 - GitHub: [https://github.com/roshnxx27](https://github.com/roshnxx27)
+  
+## Resume
 
+- Resume:[Resume](https://app.luminpdf.com/viewer/686f62a884f073adcd68d7e4)
+![](images/1.png)
 
 
 ![Portfolio Preview](images/1.png)
