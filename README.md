@@ -57,7 +57,8 @@ This project is licensed under the MIT License.
 ## Resume
 
 - Resume:[Resume](https://app.luminpdf.com/viewer/686f62a884f073adcd68d7e4)
-![](images/1.png)
+
+
 
 
 ![Portfolio Preview](images/1.png)
